@@ -1,3 +1,3 @@
         from browser import document
 
-        document <= "Hello !"
+        document <= "Hello2 !"
