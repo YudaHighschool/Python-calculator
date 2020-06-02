@@ -1,3 +1,5 @@
 # Python-機算機
-Static Python web app
+Python 網頁App
 
+網址：
+https://yudahighschool.github.io/Python-calculator/
